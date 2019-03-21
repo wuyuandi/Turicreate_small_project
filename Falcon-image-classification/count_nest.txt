@@ -1,0 +1,8 @@
+Test  T0  #site:  19
+Test  T1  #site:  19  7
+
+Train 0   #site:  19  7  8  22  119  3  47  80  40
+Train 1   #site:  19  7  8  22  119  97  3  47  80  40
+
+Valid  0  #site:  8  19  147  97  47  78   40
+valid  1  #site:  8  19  78  147  47  97  23  40
